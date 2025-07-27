@@ -8,10 +8,6 @@
 ## 📊 GitHub Stats
 ![Gulab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulabkt98&show_icons=true&theme=tokyonight)
 
-### 📊 GitHub Activity Graph
-[![Gulab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulabkt98&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulabkt98&layout=compact&theme=tokyonight)
 
