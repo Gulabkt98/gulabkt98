@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Gulab Kumawat
 
-🚀 A passionate full-stack developer and CS student.  
+🚀 A passionate full-stack developer and IT student.  
 🎯 I love building modern UIs, backend APIs, and learning new technologies.
 
 ---
