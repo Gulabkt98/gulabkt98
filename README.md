@@ -1,10 +1,17 @@
 # 👋 Hi, I'm Gulab Kumawat  
 
 💡 A **Full-Stack Developer** and **IT student** passionate about creating impactful digital solutions.  
-🚀 I enjoy building **modern, responsive UIs**, designing **scalable backend APIs**, and exploring the latest technologies.  
-🌱 Currently sharpening my skills in **MERN Stack, system design, and DevOps practices**.  
+🚀 I specialize in building **modern, responsive UIs**, developing **scalable backend APIs**, and working with **databases** to deliver complete end-to-end applications.  
 
-✨ My goal is to keep learning, contributing to open source, and growing as a developer who builds projects that solve real-world problems.
+### 🔧 Skills & Frameworks:
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB  
+- **Programming Languages:** C++, Python, JavaScript  
+- **Tools & Platforms:** GitHub, Linux, VS Code, Postman  
+
+🌱 Currently exploring **system design, DevOps, and advanced MERN stack concepts**.  
+✨ My goal is to keep learning, contribute to open source, and build projects that solve real-world problems.  
 
 ---
 
