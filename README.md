@@ -10,8 +10,7 @@
 - **Programming Languages:** C++, Python, JavaScript  
 - **Tools & Platforms:** GitHub, Linux, VS Code, Postman  
 
-🌱 Currently exploring **system design, DevOps, and advanced MERN stack concepts**.  
-✨ My goal is to keep learning, contribute to open source, and build projects that solve real-world problems.  
+ 
 
 ---
 
