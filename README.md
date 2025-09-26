@@ -32,7 +32,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: **[gulabgkg99@gmail.com](mailto:gulabgkg99@gmail.com)**  
-- 🔗 LinkedIn: **[linkedin.com/in/gulaba-ram-860090304](https://www.linkedin.com/in/gulaba-ram-860090304/)**  
+- 🔗 LinkedIn: **[linkedin.com/in/gulaba-ram-860090304](https://www.linkedin.com/in/gulabkt98)**  
 
 ---
 
