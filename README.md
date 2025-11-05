@@ -1,8 +1,22 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-    👋 Hi, I'm Gulab Kumawat
-  </span>
+<h1 align="center" style="
+  font-size: 40px;
+  font-weight: 700;
+  background: linear-gradient(270deg, #00bfff, #00ffff, #00bfff);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientFlow 4s ease infinite;
+">
+  👋 Hi, I'm Gulab Kumawat
 </h1>
+
+<style>
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 
 
