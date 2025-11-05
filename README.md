@@ -1,12 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Gulab+Kumawat;Full-Stack+Developer;Passionate+about+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  💡 A <b>Full-Stack Developer</b> and <b>IT student</b> passionate about crafting impactful digital solutions.  
-  <br/>
-  🚀 I focus on building <b>modern, responsive UIs</b>, developing <b>scalable backend APIs</b>, and managing <b>efficient databases</b> to deliver complete end-to-end web applications.
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Gulab+Kumawat;Full-Stack+Developer;Passionate+about+Modern+Web+Apps" alt="Typing SVG" />
+
+  <p>
+    💡 A <b>Full-Stack Developer</b> and <b>IT student</b> passionate about crafting impactful digital solutions.  
+    <br/>
+    🚀 I focus on building <b>modern, responsive UIs</b>, developing <b>scalable backend APIs</b>, and managing <b>efficient databases</b> to deliver complete end-to-end web applications.
+  </p>
+
+</div>
 
 ---
 
