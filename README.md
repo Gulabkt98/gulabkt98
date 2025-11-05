@@ -1,6 +1,9 @@
-<div align="center">
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm Gulab Kumawat
+  </span>
+</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Gulab+Kumawat;Full-Stack+Developer;Passionate+about+Modern+Web+Apps" alt="Typing SVG" />
 
   <p>
     💡 A <b>Full-Stack Developer</b> and <b>IT student</b> passionate about crafting impactful digital solutions.  
