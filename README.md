@@ -1,46 +1,57 @@
 <h1 align="center" style="
-  font-size: 40px;
-  font-weight: 700;
-  background: linear-gradient(270deg, #00bfff, #00ffff, #00bfff);
-  background-size: 400% 400%;
+  font-size: 42px;
+  font-weight: 800;
+  background: linear-gradient(90deg, #00d4ff, #00ffa3, #00d4ff);
+  background-size: 300% 300%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: gradientFlow 4s ease infinite;
+  animation: gradientFlow 6s ease infinite;
 ">
-  👋 Hi, I'm Gulab Kumawat
+  👋🏼 Hey, I'm <span style="color:#00ffe1;">Gulab Kumawat</span>
 </h1>
 
-
-
-
-
-  <p>
-    💡 A <b>Full-Stack Developer</b> and <b>IT student</b> passionate about crafting impactful digital solutions.  
-    <br/>
-    🚀 I focus on building <b>modern, responsive UIs</b>, developing <b>scalable backend APIs</b>, and managing <b>efficient databases</b> to deliver complete end-to-end web applications.
-  </p>
-
-</div>
-
----
-
-## 🔧 Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,html,css,js,cpp,python,git,github,linux,vscode,postman" />
+<p align="center" style="
+  font-size: 18px;
+  max-width: 700px;
+  margin: 10px auto;
+  color: #dcdcdc;
+  line-height: 1.6;
+">
+  💡 A <b>Full-Stack Developer</b> and <b>IT Student</b> passionate about building engaging and scalable digital experiences.  
+  <br/>
+  🚀 I create <b>modern, responsive UIs</b>, design <b>efficient APIs</b>, and manage <b>robust databases</b> to deliver smooth end-to-end web solutions.
 </p>
 
 ---
 
-## 🧠 Skills Overview
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
 
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB  
-- **Programming Languages:** C++, Python, JavaScript  
-- **Tools & Platforms:** GitHub, Linux, VS Code, Postman  
+<p align="center" style="margin-top: 15px;">
+  <!-- Sleek circular devicon style icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin:8px;filter: invert(1);"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin:8px;filter: invert(1);"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" style="margin:8px;"/>  
+</p>
 
----
+<style>
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
 
 ## 📊 GitHub Analytics  
 
