@@ -17,10 +17,7 @@
   color: #dcdcdc;
   line-height: 1.6;
 ">
-  💡 A <b>Full-Stack Developer</b> and <b>IT Student</b> passionate about building engaging and scalable digital experiences.  
-  <br/>
-  🚀 I create <b>modern, responsive UIs</b>, design <b>efficient APIs</b>, and manage <b>robust databases</b> to deliver smooth end-to-end web solutions.
-</p>
+ 
 
 ---
 
@@ -44,13 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" style="margin:8px;"/>  
 </p>
 
-<style>
-@keyframes gradientFlow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+
 
 
 ## 📊 GitHub Analytics  
