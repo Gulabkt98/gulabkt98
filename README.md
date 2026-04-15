@@ -19,8 +19,40 @@
 ">
  
 
----
-<h2 align="center" style="  color:#00ffe1;  font-size:28px;  margin-bottom:20px;">⚙️ Tech Stack & Tools</h2><table align="center"><tr><td align="center"><!-- Frontend --><h3>Frontend</h3><img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00D8FF"/><br><br><img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br><br><img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/><br><br><img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/></td><td align="center"><!-- Backend --><h3>Backend</h3><img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933"/><br><br><img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF"/><br><br><img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248"/></td><td align="center"><!-- Languages --><h3>Languages</h3><img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/><br><br><img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/></td><td align="center"><!-- Tools --><h3>Tools</h3><img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/><br><br><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/><br><br><img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624"/><br><br><img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37"/></td></tr></table>
+---<h2 align="center" style="
+  color:#00ffe1;
+  font-size:28px;
+  margin-bottom:15px;
+">
+⚙️ Tech Stack & Tools
+</h2>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00D8FF" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
+</p>
 
 
 
@@ -32,10 +64,7 @@
   <img src="https://komarev.com/ghpvc/?username=gulabkt98&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulabkt98&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulabkt98&layout=compact&theme=tokyonight" height="180em" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulabkt98&theme=tokyonight" alt="streak stats" />
