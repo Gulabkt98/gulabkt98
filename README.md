@@ -9,19 +9,6 @@
   👋🏼 Hey, I'm <span style="color:#00ffe1;">Gulab Kumawat</span>
 </h1>
 
-<p align="center" style="
-  font-size: 18px;
-  max-width: 700px;
-  margin: 10px auto;
-  color: #dcdcdc;
-  line-height: 1.6;
-">
-🚀 Passionate Full Stack Developer skilled in building modern, scalable web applications.  
-💻 I love working with the MERN stack and solving real-world problems through code.  
-🎯 Focused on writing clean, efficient code and continuously learning new technologies.
-</p>
-
----
 
 <h2 align="center" style="
   color:#00ffe1;
@@ -38,18 +25,17 @@
   <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
-<br><br>
 
   <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 
-<br><br>
+
 
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 
-<br><br>
+
 
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
