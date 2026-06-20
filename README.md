@@ -15,7 +15,7 @@
   font-size:28px;
   margin-bottom:15px;
 ">
-⚙️ Tech Stack & Tools
+ Tech Stack & Tools
 </h2>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gulabkt98&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />  
@@ -58,7 +58,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gulabkt98&theme=tokyo-night" />
