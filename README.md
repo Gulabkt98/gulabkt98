@@ -48,24 +48,22 @@
 
 ##  GitHub Analytics
 
+---
+
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gulabkt98&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=gulabkt98&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulabkt98&theme=tokyonight" alt="streak stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulabkt98&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulabkt98&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
----
 
-##  Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulabkt98&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
+--
 
 ##  Contribution Graph
 
